@@ -11120,7 +11120,8 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
+  background-color: #101214;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -11184,7 +11185,7 @@ body {
 }
 .contact-section .social a {
   text-align: center;
-  height: 3rem;
+  height: 2rem;
   width: 3rem;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
@@ -11199,5 +11200,34 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 1rem 0;
+  background-color: #070707;
+}
+
+.texto img {
+  width: 50px;
+  /* Tamaño deseado */
+  height: 50px;
+  /* Tamaño deseado */
+  /*margin: 2px;
+  /* Espacio entre las imágenes (puedes ajustar según sea necesario) */
+  /*filter: grayscale(100%);
+  /* Convierte las imágenes a escala de grises (opcional) */
+}
+
+ /* Estilos para el texto "Ivan Mieres" */
+ .masthead h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 60px;
+  /* Cambia el tamaño del texto */
+  margin-bottom: 10px;
+  /* Agrega un espacio debajo del texto (puedes ajustar según sea necesario) */
+}
+
+hr {
+  color: white;
+}
+
+.iconos-redes {
+  color: #64a19d;
 }
