@@ -10981,7 +10981,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #DBDEE1;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11021,7 +11021,7 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color:  rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -11030,7 +11030,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #DBDEE1;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000;
@@ -11113,7 +11113,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom, #000 0%, rgba(16, 18, 20, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
   margin-bottom: 5rem;
@@ -11121,7 +11121,7 @@ body {
 
 .projects-section {
   padding: 5rem 0;
-  background-color: #101214;
+  background-color: #0D0F11;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -11202,6 +11202,14 @@ body {
 .footer {
   padding: 1rem 0;
   background-color: #070707;
+}
+
+.skills-section {
+  padding-top: 10rem;
+  background: #101214;
+}
+.skills-section p {
+  margin-bottom: 5rem;
 }
 
 .texto img {
