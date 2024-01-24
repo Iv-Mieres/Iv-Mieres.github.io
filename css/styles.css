@@ -10979,9 +10979,9 @@ body {
   letter-spacing: 0.0625em;
 }
 
-#mainNav {
+#mainNav { 
   min-height: 3.5rem;
-  background-color: #DBDEE1;
+  background-color: #CFD2D5;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11030,7 +11030,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #DBDEE1;
+    background-color: #CFD2D5;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000;
